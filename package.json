@@ -1,0 +1,14 @@
+{
+  "name"         : "inkScraper",
+  "version"      : "0.0.1",
+  "description"  : "Connect to machines and get ink usage data",
+  "main"         : "inkScraper.js",
+  "author"       : "VM",
+  "dependencies" : {
+    "moment"     : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "csv"        : "latest",
+    "underscore" : "latest"
+  }
+}
